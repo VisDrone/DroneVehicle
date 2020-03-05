@@ -1,4 +1,4 @@
-# VisDrone-Dataset
+# VisDrone-DroneVehicle
 
 ![VisDrone](https://github.com/VisDrone/DroneVehicle/blob/master/dataset_sample.png)
 
