@@ -24,7 +24,13 @@ in DroneVehicle
 
 ## Citation 
 
-Pengfei Zhu, Yiming Sun, Longyin Wen, Yu Feng, Qinghua Hu. Drone Based RGBT Vehicle Detection and
-Counting: A Challenge
+@misc{zhu2020drone,
+    title={Drone Based RGBT Vehicle Detection and Counting: A Challenge},
+    author={Pengfei Zhu and Yiming Sun and Longyin Wen and Yu Feng and Qinghua Hu},
+    year={2020},
+    eprint={2003.02437},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 
 
