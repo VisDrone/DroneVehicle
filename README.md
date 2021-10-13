@@ -18,7 +18,7 @@ The DroneVehicle dataset consists of a total of 56,878 images collected by the d
 [Validation](https://pan.baidu.com/s/1e6e9mESZecpME4IEdU8t3Q) (code:jnj6)  
 
 ### GoogleDrive:   
-google link will be released soon.
+googledrive link will be released soon.
 
 ## Citation 
 
@@ -26,7 +26,7 @@ Please cite this paper if you want to use it in your work.
 ```
 @misc{zhu2020drone,
     title={Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning},
-    author={Yiming Sun and Bing Cao and Pengfei Zhu and Bin Xiao and Qinghua Hu},
+    author={Yiming Sun and Bing Cao and Pengfei Zhu and Qinghua Hu},
     year={2021},
     eprint={},
     archivePrefix={arXiv},
