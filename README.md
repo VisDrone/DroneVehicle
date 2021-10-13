@@ -10,6 +10,8 @@ An uncertainty-aware module (UAM) is designed to quantify the uncertainty weight
 
 ## Citation 
 
+Please cite this paper if you want to use it in your work.
+```
 @misc{zhu2020drone,
     title={Drone Based RGBT Vehicle Detection and Counting: A Challenge},
     author={Pengfei Zhu and Yiming Sun and Longyin Wen and Yu Feng and Qinghua Hu},
@@ -18,5 +20,7 @@ An uncertainty-aware module (UAM) is designed to quantify the uncertainty weight
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+```
+
 
 
