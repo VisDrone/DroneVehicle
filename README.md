@@ -9,7 +9,7 @@ An uncertainty-aware module (UAM) is designed to quantify the uncertainty weight
 ![VisDrone](https://github.com/VisDrone/DroneVehicle/blob/master/label_sample.png)
 
 ## Dataset
-The DroneVehicle dataset consists of a total of 56,878 images collected by the drone, half of which are RGB images, and the resting are infrared images. We have made rich annotations with oriented bounding boxes for the five categories. Among them, car has $389,779$ annotations in RGB images, and $428,086$ annotations in infrared images, \textit{truck} has $22,123$ annotations in RGB images, and $25,960$ annotations in infrared images, \textit{bus} has $15,333$ annotations in RGB images, and $16,590$ annotations in infrared images, \textit{van} has $11,935$ annotations in RGB images, and $12,708$ annotations in infrared images, and \textit{freight car} has $13,400$ annotations in RGB images, and $17,173$ annotations in infrared image.
+The DroneVehicle dataset consists of a total of 56,878 images collected by the drone, half of which are RGB images, and the resting are infrared images. We have made rich annotations with oriented bounding boxes for the five categories. Among them, car has 389,779 annotations in RGB images, and 428,086 annotations in infrared images, truck has 22,123 annotations in RGB images, and 25,960 annotations in infrared images, bus has 15,333 annotations in RGB images, and 16,590 annotations in infrared images, van has 11,935 annotations in RGB images, and 12,708 annotations in infrared images, and freight car has 13,400 annotations in RGB images, and 17,173 annotations in infrared image. This dataset is available on the download page.
 
 ## Citation 
 
