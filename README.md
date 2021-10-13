@@ -2,23 +2,9 @@
 
 ![VisDrone](https://github.com/VisDrone/DroneVehicle/blob/master/dataset_sample.png)
 
-Camera-equipped drones can capture targets on the ground from a wider field of view than static cameras or moving
-sensors over the ground. In this project, we present a large-scale vehicle detection and counting benchmark, named DroneVehicle,
-aiming at advancing visual analysis tasks on the drone platform. The images in the benchmark were captured over various urban
-areas, which include different types of urban roads, residential areas, parking lots, highways, etc., from day to night. Specifically,
-DroneVehicle consists of 15,532 pairs of images, i.e., RGB images and infrared images with rich annotations, including oriented object bounding boxes, object categories, etc. With intensive amount of effort, our benchmark has 441,642 annotated
-instances in 31,064 images.
-
-The challenge mainly focuses on two tasks: 
-
-Task 1: object detection in images. Given a predefined
-set of object classes (e:g:, car, bus, and truck), the task
-aims to detect objects of these classes from individual
-images taken from drones.
-
-Task 2: object counting in images. The task aims to
-estimate the number of vehicles from individual images
-in DroneVehicle
+# Abstract
+Drone-based vehicle detection aims at finding the vehicle locations and categories in an aerial image. It empowers smart city traffic management and disaster rescue. Researchers have made mount of efforts in this area and achieved considerable progress. Nevertheless, it is still a challenge when the objects are hard to distinguish, especially in low light conditions. To tackle this problem, we construct a large-scale drone-based RGB-Infrared vehicle detection dataset, termed DroneVehicle. Our DroneVehicle collects 28,439 RGB-Infrared image pairs, covering urban roads, residential areas, parking lots, and other scenarios from day to night. Due to the great gap between RGB and infrared images, cross-modal images provide both effective information and redundant information. To address this dilemma, we further propose an uncertainty-aware cross-modality vehicle detection (UA-CMDet) framework to extract complementary information from cross-modal images, which can significantly improve the detection performance in low light conditions.
+An uncertainty-aware module (UAM) is designed to quantify the uncertainty weights of each modality, which is calculated by the cross-modal Intersection over Union (IoU) and the RGB illumination value. Furthermore, we design an illumination-aware cross-modal non-maximum suppression algorithm to better integrate the modal-specific information in the inference phase. Extensive experiments on the DroneVehicle dataset demonstrate the flexibility and effectiveness of the proposed method for cross-modality vehicle detection. 
 
 ![VisDrone](https://github.com/VisDrone/DroneVehicle/blob/master/label_sample.png)
 
