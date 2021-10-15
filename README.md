@@ -24,13 +24,13 @@ googledrive link will be released soon.
 
 Please cite this paper if you want to use it in your work.
 ```
-@misc{zhu2020drone,
-    title={Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning},
-    author={Yiming Sun and Bing Cao and Pengfei Zhu and Qinghua Hu},
-    year={2021},
-    eprint={},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@misc{sun2021dronebased,
+      title={Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning}, 
+      author={Yiming Sun and Bing Cao and Pengfei Zhu and Qinghua Hu},
+      year={2021},
+      eprint={2003.02437},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
