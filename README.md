@@ -18,12 +18,25 @@ The DroneVehicle dataset consists of a total of 56,878 images collected by the d
 ### GoogleDrive:   
 googledrive link will be released soon.
 
+### Code:
+[UA-CMDet](https://github.com/SunYM2020/UA-CMDet)
+
 ![VisDrone](https://github.com/VisDrone/DroneVehicle/blob/master/dataset_sample.png)
 
 ## Citation 
 
 Please cite this paper if you want to use it in your work.
 ```
+@ARTICLE{sun2020drone,
+  title={Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning}, 
+  author={Sun, Yiming and Cao, Bing and Zhu, Pengfei and Hu, Qinghua},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1}
+}
+
 @misc{sun2021dronebased,
       title={Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning}, 
       author={Yiming Sun and Bing Cao and Pengfei Zhu and Qinghua Hu},
